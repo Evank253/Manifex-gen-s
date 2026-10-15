@@ -1,0 +1,1 @@
+open('/home/workdir/artifacts/push_spec.md').read()
